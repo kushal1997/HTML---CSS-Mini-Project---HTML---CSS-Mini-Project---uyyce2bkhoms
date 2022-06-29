@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal1997&label=Profile%20views&color=0e75b6&style=flat" alt="kushal1997" /> </p>
 
-- 🔭 I’m currently working on ["Photography Website"](https://github.com/kushal1997/HTML---CSS-Mini-Project---HTML---CSS-Mini-Project---uyyce2bkhoms.git)
+- 🔭 I’m currently working on ["Photography Website"](https://kushal-photography-website.netlify.app/)
 
 - 🌱 I’m currently learning **javascript**
 
